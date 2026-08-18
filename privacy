@@ -1,63 +1,69 @@
-# Privacy Policy — Tickets CGHX
+# Privacy Policy — Moderation
 
 **Last updated:** August 18, 2026
 
-This Privacy Policy explains how **Tickets CGHX** handles information when you use the bot on Discord.
+This Privacy Policy explains how **Moderation** handles information when it is used on Discord servers.
 
 ## 1. Information We May Process
 
-Depending on the features being used, Tickets CGHX may process information provided through Discord, including:
+Depending on the features used, Moderation may process information available through Discord, including:
 
 * Discord user IDs;
 * Discord server IDs;
 * Channel IDs;
 * Message IDs;
 * Usernames or display names;
-* Ticket and server configuration information.
+* Moderation-related information;
+* Server configuration and bot settings.
 
-The bot only processes information reasonably necessary to provide its features.
+Moderation only processes information that is reasonably necessary to provide its features.
 
 ## 2. How Information Is Used
 
-Information may be used to:
+Information may be processed to:
 
-* Create and manage support tickets;
-* Execute commands requested by users;
-* Store server and bot configuration;
-* Provide and maintain bot functionality;
+* Execute moderation commands;
+* Manage server configurations;
+* Provide moderation features;
+* Apply moderation actions requested by authorized users;
+* Maintain and improve the bot;
 * Prevent abuse and unauthorized use;
-* Troubleshoot errors and improve the bot.
+* Troubleshoot technical problems.
 
-## 3. Data Storage
+## 3. Storage
 
-Some information may be stored for as long as necessary to provide the bot's features.
+Some information may be temporarily or permanently stored when required for the bot's functionality.
 
-We do not sell personal information to third parties.
+Data is not sold to third parties for advertising or commercial purposes.
 
 ## 4. Sharing of Information
 
-We do not intentionally sell or share users' personal information with third parties for advertising or commercial purposes.
+Moderation does not intentionally sell or share users' personal information with third parties for advertising purposes.
 
-Information may be disclosed when required by law or when necessary to protect the security and operation of the bot.
+Information may be disclosed when required by applicable law or when necessary to protect the security and operation of the service.
 
 ## 5. Data Deletion
 
-Users or server administrators may request deletion of stored information associated with their use of Tickets CGHX.
+Users or server administrators may request deletion of information stored by Moderation that is associated with their server or account.
 
-To request deletion, contact the developer or administrator of the bot.
+To request data deletion, contact the developer or administrator of Moderation.
 
 ## 6. Security
 
-Reasonable measures are used to protect stored information from unauthorized access, alteration, disclosure, or destruction.
+Reasonable measures are used to protect information processed by Moderation against unauthorized access, alteration, disclosure, or destruction.
 
 However, no online service can guarantee absolute security.
 
-## 7. Changes to This Privacy Policy
+## 7. Children's Privacy
 
-This Privacy Policy may be updated from time to time. The latest version will always be available on this page.
+Moderation is a Discord application and follows the applicable rules and age requirements established by Discord.
 
-## 8. Contact
+## 8. Changes to This Privacy Policy
 
-For questions, privacy requests, or data deletion requests, please contact the developer or administrator of Tickets CGHX.
+This Privacy Policy may be updated from time to time. The latest version will be made available on this page.
 
-By using Tickets CGHX, you acknowledge this Privacy Policy.
+## 9. Contact
+
+For questions about this Privacy Policy or requests concerning personal data, please contact the developer or administrator of Moderation.
+
+By using Moderation, you acknowledge this Privacy Policy.

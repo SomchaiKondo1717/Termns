@@ -1,43 +1,50 @@
-# Terms of Service — Tickets CGHX
+# Terms of Service — Moderation
 
 **Last updated:** August 18, 2026
 
-By using the **Tickets CGHX** Discord bot, you agree to these Terms of Service.
+By adding or using **Moderation** on a Discord server, you agree to these Terms of Service.
 
-## 1. Use of the Bot
+## 1. About the Bot
 
-Tickets CGHX is a Discord bot designed to provide ticket and support management features for Discord servers.
+Moderation is a Discord bot designed to provide moderation and server-management features, helping server administrators maintain a safe and organized community.
 
-You agree to use the bot in accordance with Discord's Terms of Service, Community Guidelines, and all applicable laws.
+## 2. Acceptable Use
 
-## 2. Prohibited Use
+You agree to use Moderation only for lawful purposes and in accordance with Discord's Terms of Service and Community Guidelines.
 
-You may not use Tickets CGHX to:
+You must not use the bot to:
 
 * Conduct illegal activities;
-* Spam, abuse, or harass other users;
-* Distribute malicious content;
-* Attempt to disrupt or compromise the bot or its infrastructure;
-* Abuse or bypass the bot's security or limitations.
+* Harass, threaten, or abuse other users;
+* Distribute malware or other harmful content;
+* Attempt to disrupt or damage the bot;
+* Attempt to bypass security features or limitations;
+* Abuse the bot's moderation features against other users.
 
-## 3. Availability
+## 3. Server Administrators
 
-Tickets CGHX is provided on an "as is" and "as available" basis.
+Server owners and administrators are responsible for configuring Moderation appropriately and for how its moderation features are used within their servers.
 
-Features may be changed, updated, temporarily unavailable, or discontinued at any time without prior notice.
+The developer of Moderation is not responsible for moderation decisions made by server administrators or users.
 
-## 4. Data
+## 4. Availability
 
-The bot may process information necessary to provide its features, such as Discord user IDs, server IDs, channel IDs, message IDs, and server configuration data.
+Moderation is provided on an "as is" and "as available" basis.
 
-For more information, please see our Privacy Policy.
+Features may be updated, modified, temporarily unavailable, or discontinued at any time.
 
-## 5. Changes to These Terms
+## 5. Data
 
-These Terms of Service may be updated from time to time. Continued use of the bot after changes are published constitutes acceptance of the updated Terms.
+Moderation may process information provided through Discord that is necessary for its functionality, such as Discord user IDs, server IDs, channel IDs, message IDs, usernames, and moderation or server configuration data.
 
-## 6. Contact
+For more information, please review our Privacy Policy.
 
-If you have questions about these Terms of Service, please contact the developer or administrator of Tickets CGHX.
+## 6. Changes to These Terms
 
-By using Tickets CGHX, you acknowledge that you have read and agree to these Terms of Service.
+These Terms of Service may be updated at any time. Continued use of Moderation after an update means that you accept the revised Terms.
+
+## 7. Contact
+
+If you have questions regarding these Terms of Service, please contact the developer or administrator of Moderation.
+
+By using Moderation, you acknowledge that you have read and agree to these Terms of Service.
